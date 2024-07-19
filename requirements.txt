@@ -2,5 +2,6 @@
 torch==2.1.0+cu121
 torchvision==0.16.0+cu121
 torchaudio==2.1.0+cu121
+speechbrain==0.5.16
 pydub
 git+https://github.com/m-bain/whisperx.git
